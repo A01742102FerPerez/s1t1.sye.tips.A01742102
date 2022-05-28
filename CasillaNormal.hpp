@@ -2,6 +2,7 @@
 
 #include "CCasilla.hpp"
 
+//esta heredando la clase casilla
 class CasillaNormal:public CCasilla
 {
 

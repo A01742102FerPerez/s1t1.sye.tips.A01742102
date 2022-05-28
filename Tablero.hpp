@@ -6,6 +6,7 @@
 class Tablero {
 private:
     CCasilla c[MAX_CASILLAS];
+
 public:
     Tablero();
     Tablero(std::string);
